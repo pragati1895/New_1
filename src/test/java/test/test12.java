@@ -20,5 +20,14 @@ public void test() {
 	System.out.println("first test");
 	
 }
+public void test1() {
+	System.out.println("2nd test");
+}
+public void test3() {
+	System.out.println("3rd test");
+}
+public void test4() {
+	System.out.println("4th test");
+}
 }
 
